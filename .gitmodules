@@ -1,0 +1,3 @@
+[submodule "Packages/Toolkit"]
+	path = Packages/Toolkit
+	url = git@gitlab.com:codeartisans-studio/toolkit.git
